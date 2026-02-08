@@ -1,2 +1,2 @@
-# BankAccountproject
-Basic Java Bank Account Management System - console based program.
+# HTML Practice
+Daily tasks of Html 
